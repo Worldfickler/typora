@@ -20,7 +20,7 @@
 
 ### 业务流程
 
-![e9c6efac-04aa-4bed-9b63-6f5c597fa715](Z:/typora%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E5%BA%93/e9c6efac-04aa-4bed-9b63-6f5c597fa715.png)
+![e9c6efac-04aa-4bed-9b63-6f5c597fa715](http://qiniu.fickler.top/img/e9c6efac-04aa-4bed-9b63-6f5c597fa715.png)
 
 ### 技术选型
 
